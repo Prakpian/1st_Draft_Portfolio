@@ -356,3 +356,13 @@ input, textarea {
 #submit:hover {
   background-color: #5cd2a9;
 }
+
+.pro-btn:hover{
+  background-color: #61dfb3;
+  border-color: #61dfb3;
+}
+
+.res-btn:hover{
+  background-color: #dfdfdf;
+  border-color: #dfdfdf;
+}
